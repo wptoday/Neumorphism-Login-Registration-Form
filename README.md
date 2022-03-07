@@ -1,9 +1,8 @@
-<h2>🎈 esponsive Animated Neumorphism Login & Sign Up Form Using HTML CSS & JavaScript �
-</h2>
+<h2>🎈Responsive Animated Neumorphism Login & Sign Up Form Using HTML CSS & JavaScript🎈</h2>
 
-<a href='https://youtu.be/8xdnPI6N_fQ' target='_blank'><h2>Watch This Video in YouTube</h2></a>
+<a href='https://youtu.be/HmeuMT32BdE' target='_blank'><h2>Watch This Video in YouTube</h2></a>
 
-<a href="https://youtu.be/8xdnPI6N_fQ" target='_blank'><img src="https://raw.githubusercontent.com/wptoday/abstrak/main/preview.jpg" alt="Abstrak" border="0" max-width='50%' ></a>
+<a href="https://youtu.be/HmeuMT32BdE" target='_blank'><img src="https://github.com/wptoday/Neumorphism-Login-Registration-Form/blob/main/preview.png?raw=true" alt="Neumorphism UI" border="0" max-width='50%' ></a>
 </br></br>
 🪄 In this video, you will learn to create a responsive Neumorphism Login & Sign Up Form Using HTML CSS & JavaScript (Vanilla JS). There will be a feature of switching sign in to sign up mode and vice versa. So, Go ahead and watch me create this stunning design. If you don’t know what Neumorphism design is, you can check the article below. 
 
