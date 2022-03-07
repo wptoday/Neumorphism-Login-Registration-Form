@@ -14,9 +14,6 @@
 🌺 You can use that as your own portfolio and show that to the world. A basic understanding of HTML, CSS, and JavaScript is required to do this project. So, I highly recommend you to have a basic understanding of those languages..
 
 </br></br>
-
-
-
 🔗 My Channel <a href='//www.youtube.com/channel/UCKr4VRLJU3bhQ-scnvQSKjQ/'>WP Today</a>
 <!---
 wptoday/wptoday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
