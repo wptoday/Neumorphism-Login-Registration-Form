@@ -1,4 +1,4 @@
-<h2>🎈Responsive Animated Neumorphism Login & Sign Up Form Using HTML CSS & JavaScript🎈</h2>
+<h2>🎈Responsive Animated Neumorphism Login & Sign Up Form Using HTML CSS & JavaScript</h2>
 
 <a href='https://youtu.be/HmeuMT32BdE' target='_blank'><h2>Watch This Video in YouTube</h2></a>
 </br>
